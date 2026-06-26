@@ -1,0 +1,3 @@
+[submodule "src/games/tower-defense"]
+	path = src/games/tower-defense
+	url = git@punky.github.com:oO-punky/tower-defense.git
